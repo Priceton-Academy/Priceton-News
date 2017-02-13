@@ -1,3 +1,5 @@
+**_This is a secure page where news is almost never fake._**
+
 ## **TOP STORIES**
 
 #### _NZDUSD_
