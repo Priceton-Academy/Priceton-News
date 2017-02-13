@@ -2,28 +2,28 @@
 
 ## **TOP STORIES**
 
+#### _AUDUSD_
+Long at 0.76503 with stop at 0.7223.
+
 #### _NZDUSD_
-Just long at 0.7235 with stop at 0.6835.
+Long at 0.71704 with stop at 0.6835.
+
+#### _USDCAD_
+Long at 1.30893 with stop at 1.2830.
+
+#### _USDJPY_
+Long at 113.99 with stop at 106.74.
 
 ## **MORE STORIES**
-
-#### _AUDUSD_
-Waiting for a signal to long this pair.
 
 #### _EURUSD_
 Still shorting this pair with stops at 1.0975.
 
 #### _GBPUSD_
-Still shorting this pair with stops at 1.3496.
-
-#### _USDCAD_
-Go long at market price with stop at 1.2830.
+Still shorting this pair with stops at 1.3226.
 
 #### _USDCHF_
-Go long at market price with stop at 0.9527.
-
-#### _USDJPY_
-Go long at market price with stop at 106.74.
+Waiting to go long with stop at 0.9527.
 
 ## **MONTHLY BLOG**
 
