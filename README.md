@@ -47,4 +47,4 @@ Successful traders choose B and C respectively. If your answers are otherwise, f
 
 ## **ABOUT PRICETON NEWS**
 
-I'm a price action figure in the currency markets(with trading positions for weeks or more), bringing you price action news in the markets. I can be found tweeting [here](https://twitter.com/mrfrancistan). Or I can be contacted via francis@mrfrancistan.com.
+I'm a price action figure in the currency markets(with trading positions for weeks or more), bringing you price action news in the markets. I can be found tweeting [here](https://twitter.com/mrfrancistan). Or I can be contacted via [francis@mrfrancistan.com](mailto:francis@mrfrancistan.com).
