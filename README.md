@@ -80,7 +80,7 @@ When I trade, I do it as if I ame working on 5+8, 14-5, 4×9 or 56/7. With my ba
 
 Read this cheesy poem:
 
-'TRADING IS A GAME.
+'code'TRADING IS A GAME.
 TRADING IS A NUMBERS GAME.
 TRADING IS NOT AN EMOTIONAL GAME.
 TRADING IS NOT A DISCRETIONARY GAME.
@@ -91,7 +91,7 @@ TRADING IS NOT A MULTIPLE-INDICATORS GAME.
 TRADING CAN BE AS SIMPLE AS DOING 2+3.
 TRADING CAN GET MORE COMPLEX LIKE DOING 546X24.
 BUT IN THE END,
-TRADING IS STILL A NUMBERS GAME.'
+TRADING IS STILL A NUMBERS GAME.'code'
 
 Not quite Dr Seuss or Shakespeare, but you get the meaning.
 If you can regard trading the same way as doing Mathematics, you will know how to succeed in trading.
